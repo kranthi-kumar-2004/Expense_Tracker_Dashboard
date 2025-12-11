@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expense_Tracker_Dashboard/static/css/main.ba69996a.css",
+    "main.js": "/Expense_Tracker_Dashboard/static/js/main.a1466cf7.js",
+    "index.html": "/Expense_Tracker_Dashboard/index.html",
+    "main.ba69996a.css.map": "/Expense_Tracker_Dashboard/static/css/main.ba69996a.css.map",
+    "main.a1466cf7.js.map": "/Expense_Tracker_Dashboard/static/js/main.a1466cf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba69996a.css",
+    "static/js/main.a1466cf7.js"
+  ]
+}
